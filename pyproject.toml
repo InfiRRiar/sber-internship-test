@@ -1,0 +1,9 @@
+[project]
+name = "sber-test"
+version = "0.1.0"
+description = "Тестовое задание для стажировки в Сбер, 2026"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.4.6",
+]
